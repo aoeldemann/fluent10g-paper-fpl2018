@@ -1,0 +1,3 @@
+Read throughput: 51.96
+Write throughput: 47.42
+
