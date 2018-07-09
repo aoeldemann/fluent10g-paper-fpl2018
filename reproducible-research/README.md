@@ -19,7 +19,7 @@ Our software setup:
 
 * Ubuntu 16.04 Server, Linux Kernel version 4.4.0-127
 * [Xilinx XDMA driver](https://www.xilinx.com/support/answers/65444.html)
-obtained on June 6th 2018
+    (poll-mode)
 * Go version 1.6.2
 
 ## Git Commits
